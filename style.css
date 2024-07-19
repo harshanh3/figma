@@ -1,0 +1,44 @@
+#container{
+    margin-left: 600px;
+    width: 380px;
+    height: 700px;
+    border-radius: 30px;
+}
+#image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#username{
+    width: 350px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 0px 10px;
+}
+#Password{
+        width: 350px;
+        height: 50px;
+        font-size: 20px;
+        border-radius: 10px;
+        margin: 0px 10px;
+}
+#btn{
+    margin-left: 125px;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(79, 79, 225);
+    border-radius: 10px;
+    border: none;
+}
+#textbox{
+    background-color: rgb(222, 244, 114);
+    height: 300px;
+    border-radius: 20px;
+    
+}
+h1{
+    margin-left: 50px;
+}
